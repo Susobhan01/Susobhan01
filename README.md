@@ -18,9 +18,17 @@ Currently preparing for **CDAC PG-DAC (C-CAT)** while building production-style 
 ---
 
 ## 🌐 Professional Links
-- 💼 LinkedIn: https://www.linkedin.com/in/susobhanmaji/
-- 💻 GitHub: https://github.com/Susobhan01
-- 🧠 LeetCode: https://leetcode.com/ *(DSA practice)*
+<p align="left">
+  <a href="https://www.linkedin.com/in/susobhanmaji/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Susobhan%20Maji-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Susobhan01" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Susobhan01-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
