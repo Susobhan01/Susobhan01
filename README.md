@@ -35,7 +35,7 @@ Focused on writing clean, maintainable code and continuously improving problem-s
 </a>
 </p>
 📌 *Regularly practicing DSA and algorithmic problems (Arrays, Strings, Recursion, OOP, SQL).*  
-➡️ *(Update LeetCode profile link once finalized)*
+➡️ **
 
 ---
 
@@ -103,7 +103,6 @@ Will include:
 ---
 
 ## 🎯 Current Focus
-- CDAC C-CAT Preparation  
 - Data Structures & Algorithms  
 - Advanced Java & C#  
 - Backend Development  
