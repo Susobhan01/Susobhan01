@@ -62,7 +62,8 @@ Focused on clean architecture, system design, and DevOps best practices.
 ---
 
 ## 📄 Resume
-📄 **[Download Resume](https://github.com/Susobhan01/Susobhan01/blob/main/Susobhan_Kumar_Maji_Resume.pdf)**
+📌 **[Download Resume (PDF)](https://github.com/Susobhan01/Susobhan01/blob/main/Susobhan_Kumar_Maji_Resume.pdf)**  
+*Download for full experience & offline view*
 📌 **Resume coming soon (PDF)**
 
 ---
