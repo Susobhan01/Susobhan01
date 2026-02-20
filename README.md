@@ -20,13 +20,15 @@ Currently preparing for **CDAC PG-DAC (C-CAT)** while building production-style 
 ## 🌐 Professional Links
 <p align="left">
   <a href="https://www.linkedin.com/in/susobhanmaji/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Susobhan%20Maji-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/Susobhan01" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Susobhan01-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" />
   </a>
 </p>
 
