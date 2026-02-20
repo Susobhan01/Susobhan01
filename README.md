@@ -1,5 +1,6 @@
+<!-- ===================== HERO SECTION ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Susobhan+Maji;Full-Stack+Developer+%7C+DevOps+Engineer;React+%7C+Node+%7C+Java+%7C+Spring+%7C+.NET;Cloud+%7C+CI%2FCD+%7C+Docker" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Susobhan+Maji;Full-Stack+Developer+%7C+DevOps+Enthusiast;React+%7C+Node+%7C+Java+%7C+Spring+%7C+.NET;Cloud+%7C+CI%2FCD+%7C+Docker;Building+Scalable+Production-Ready+Systems" />
 </p>
 
 <p align="center">
@@ -9,47 +10,76 @@
 ---
 
 ## 👨‍💻 Professional Summary
-Full-Stack Developer with hands-on experience building scalable web applications using **React, Node.js, Java, and .NET**.  
-Strong understanding of **REST APIs, authentication, databases, and CI/CD pipelines**.  
-Focused on clean architecture, system design, and DevOps best practices.
+Full-Stack Developer with hands-on experience in building **scalable web applications** using **React, Node.js, Java, and .NET**.  
+Strong foundation in **REST APIs, authentication (JWT), databases, and CI/CD pipelines**.  
+DevOps-oriented mindset with exposure to **Docker, GitHub Actions, Linux, and cloud deployments**.  
+Currently preparing for **CDAC PG-DAC (C-CAT)** while building production-style projects.
 
 ---
 
 ## 🌐 Professional Links
-- 🔗 LinkedIn: https://www.linkedin.com/in/susobhanmaji/
+- 💼 LinkedIn: https://www.linkedin.com/in/susobhanmaji/
 - 💻 GitHub: https://github.com/Susobhan01
+- 🧠 LeetCode: https://leetcode.com/ *(DSA practice)*
 
 ---
 
-## 🧠 Tech Stack
-**Frontend:** React, HTML, CSS, JavaScript  
-**Backend:** Node.js, Java, Spring (learning), C#, .NET  
-**Database:** MongoDB, MySQL  
-**DevOps:** GitHub Actions, Docker (learning), Linux  
-**Cloud:** Vercel, AWS (learning)
+## 🛠 Tech Stack
+
+### 🔹 Frontend
+- React.js
+- HTML5, CSS3, JavaScript
+- Tailwind / Bootstrap
+
+### 🔹 Backend
+- Node.js, Express.js
+- Java, Spring (learning)
+- C#, .NET
+- RESTful APIs, JWT Authentication
+
+### 🔹 Databases
+- MongoDB
+- MySQL / SQL
+
+### 🔹 DevOps & Cloud
+- Git & GitHub
+- GitHub Actions (CI/CD)
+- Docker (learning)
+- Linux
+- Vercel
+- AWS (learning)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,java,spring,cs,dotnet,js,html,css,mongodb,mysql,git,githubactions,docker,linux,aws&perline=8" />
+</p>
 
 ---
 
-## 🏗 Projects
-### 🔹 AutoHub – Full-Stack Platform
-- React frontend, Node/Express backend
-- JWT authentication & role-based access
-- MongoDB database
+## 🚀 Featured Projects
+
+### 🔹 AutoHub – Full-Stack Automobile Service Platform
+- React frontend with Node.js & Express backend  
+- RESTful APIs with JWT-based authentication  
+- Role-based access (Admin / User)  
+- MongoDB for data persistence  
+- Version-controlled with Git & GitHub  
 
 ### 🔹 COVID-19 Tracker
-- Real-time API integration
-- Deployed on Vercel
+- Real-time COVID-19 data visualization  
+- Integrated third-party REST APIs  
+- Responsive UI with React  
+- Deployed on Vercel  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Susobhan01&show_icons=true&theme=transparent" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Susobhan01&theme=transparent" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Susobhan01&show_icons=true&hide_border=true&theme=transparent" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Susobhan01&hide_border=true&theme=transparent" width="48%"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susobhan01&layout=compact&theme=transparent" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susobhan01&layout=compact&hide_border=true&theme=transparent" width="48%"/>
 </p>
 
 ---
@@ -59,17 +89,24 @@ Focused on clean architecture, system design, and DevOps best practices.
   <img src="https://github.com/Susobhan01/Susobhan01/blob/main/profile-3d-contrib/profile-night-green.svg" />
 </p>
 
+> *Automatically generated using GitHub Actions (CI/CD).*
+
 ---
 
 ## 📄 Resume
 📌 **[Download Resume (PDF)](https://github.com/Susobhan01/Susobhan01/blob/main/Susobhan_Kumar_Maji_Resume.pdf)**  
-*Download for full experience & offline view*
-📌 **Resume coming soon (PDF)**
+*ATS-optimized | Project-focused | Recruiter-ready*
 
 ---
 
-## 🎯 Focus for 2026
-- Backend engineering
-- DevOps & CI/CD
-- Cloud deployment
-- System design
+## 🎯 2026 Roadmap
+- Advanced Backend Engineering (Java / Spring / .NET)
+- Microservices & System Design
+- Docker & CI/CD pipelines
+- Cloud deployment (AWS)
+- Scalable architecture patterns
+
+---
+
+## 🧠 Engineering Philosophy
+> *“Anyone can write code. Engineers design systems that scale.”*
